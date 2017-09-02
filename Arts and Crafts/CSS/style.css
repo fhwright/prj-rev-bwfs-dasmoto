@@ -1,0 +1,43 @@
+#TitleBar{
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  font-famly: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align:center;
+  background-image: url(../Resources/pattern.jpg);
+
+ }
+ #TextBox{
+   text-align: center;
+   max-width: 100%;
+   height:auto;
+   width: auto;
+   right: 40px;
+
+  }
+.headers{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#BrushTop{
+  background-color: mediumspringgreen;
+}
+#FrameTop{
+  background-color: lightcoral;
+}
+#PaintTop{
+  background-color: skyblue;
+}
+.price{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+*{
+  font-family: Helvetica;
+}
